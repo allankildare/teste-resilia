@@ -1,0 +1,1 @@
+Arquivo aleatório para testar colaboração open-source no Git
