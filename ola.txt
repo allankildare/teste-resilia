@@ -1,1 +1,2 @@
 Arquivo aleatório para testar colaboração open-source no Git
+alterando o file - eric abrunhosa
